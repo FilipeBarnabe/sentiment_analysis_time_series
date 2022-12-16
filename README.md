@@ -1,2 +1,4 @@
-# sentiment_analysis_time_series
+# Sentiment Analysis / Time Series 
+
+Academic project
  
